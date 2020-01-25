@@ -11,10 +11,10 @@ markdown: kramdown
 primarylinks:
  - title: GitHub
    url: https://github.com/himadri001
- - title: StackOverflow
-   url: https://stackoverflow.com/users/11941968/himadri-chowdhury
  - title: LinkedIn
-   url: https://www.linkedin.com/in/himadri-chowdhury-549820160/
+   url: https://linkedin.com/in/himadri-chowdhury-549820160/
+
+
 
 #Any buzzword skills you want to include
 skills:
